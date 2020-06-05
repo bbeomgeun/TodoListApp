@@ -19,6 +19,9 @@ Term project TodoList with LBS using AndroidStudio
 (지도를 보며 할 일을 기억할수도 / 또는 단순 길찾기 효과도 누릴 수 있다.)
 구현 : fragment를 추가할지, 단순 intent를 통해 지도를 나타낼지
 
+06/05 GeoCoder를 추가할때 단순 activity추가하듯이 fragment에는 추가가 되지 않는다. 
+fragment 개념 공부 및 방향 재설정
+
 2) fragment3에서 시스템상 alarm을 리스트로 저장해둔다.
 (못 보고 지나친 알람을 보고 기억을 할 수 있다.)
 2-1. 구현방법 찾아보기.
